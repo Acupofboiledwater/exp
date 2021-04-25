@@ -2,7 +2,7 @@
 [README](./README.md)  
 [BaiDu](https://www.baidu.com)   
 ![picture](./2.jpg)   
-![Picture1](https://sc.chinaz.com/tupian/210425102822.htm)
+
 
 *******
 `代码内容`  
