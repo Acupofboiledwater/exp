@@ -3,8 +3,8 @@
 [BaiDu](https://www.baidu.com)   
 ![Picture](./2)  
 `代码内容`  
-(```)
+```
 int a=0;  
 int b=0;  
 int c=a+b;  
-(```)
+```
