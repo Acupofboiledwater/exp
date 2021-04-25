@@ -1,7 +1,7 @@
 #### This is a H4 Header
 [README](./README.md)  
 [BaiDu](https://www.baidu.com)   
-![Picture](./2.jpg) 
+![picture](./2.jpg) 
 *******
 `代码内容`  
 ```
